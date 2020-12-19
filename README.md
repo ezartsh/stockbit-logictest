@@ -1,0 +1,2 @@
+# Stockbit Challange
+## Logic Test
